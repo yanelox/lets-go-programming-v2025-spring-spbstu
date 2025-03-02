@@ -1,0 +1,147 @@
+[
+ {
+  "num_code": "",
+  "char_code": "",
+  "value": "0,6400"
+ },
+ {
+  "num_code": "792",
+  "char_code": "TRL",
+  "value": "0,9700"
+ },
+ {
+  "num_code": "040",
+  "char_code": "ATS",
+  "value": "104,3000"
+ },
+ {
+  "num_code": "392",
+  "char_code": "JPY",
+  "value": "113,0000"
+ },
+ {
+  "num_code": "840",
+  "char_code": "USD",
+  "value": "1189,0000"
+ },
+ {
+  "num_code": "954",
+  "char_code": "XEU",
+  "value": "1388,9900"
+ },
+ {
+  "num_code": "752",
+  "char_code": "SEK",
+  "value": "147,9600"
+ },
+ {
+  "num_code": "578",
+  "char_code": "NOK",
+  "value": "167,9300"
+ },
+ {
+  "num_code": "960",
+  "char_code": "XDR",
+  "value": "1682,0700"
+ },
+ {
+  "num_code": "352",
+  "char_code": "ISK",
+  "value": "17,0900"
+ },
+ {
+  "num_code": "372",
+  "char_code": "IEP",
+  "value": "1729,8800"
+ },
+ {
+  "num_code": "208",
+  "char_code": "DKK",
+  "value": "181,2000"
+ },
+ {
+  "num_code": "826",
+  "char_code": "GBP",
+  "value": "1814,0600"
+ },
+ {
+  "num_code": "428",
+  "char_code": "LVL",
+  "value": "1949,1800"
+ },
+ {
+  "num_code": "246",
+  "char_code": "FIM",
+  "value": "206,6600"
+ },
+ {
+  "num_code": "250",
+  "char_code": "FRF",
+  "value": "209,7400"
+ },
+ {
+  "num_code": "440",
+  "char_code": "LTL",
+  "value": "280,4200"
+ },
+ {
+  "num_code": "056",
+  "char_code": "BEF",
+  "value": "337,9800"
+ },
+ {
+  "num_code": "300",
+  "char_code": "GRD",
+  "value": "50,5800"
+ },
+ {
+  "num_code": "528",
+  "char_code": "NLG",
+  "value": "652,7600"
+ },
+ {
+  "num_code": "620",
+  "char_code": "PTE",
+  "value": "71,2000"
+ },
+ {
+  "num_code": "276",
+  "char_code": "DEM",
+  "value": "733,5900"
+ },
+ {
+  "num_code": "380",
+  "char_code": "ITL",
+  "value": "74,7400"
+ },
+ {
+  "num_code": "702",
+  "char_code": "SGD",
+  "value": "761,2000"
+ },
+ {
+  "num_code": "036",
+  "char_code": "AUD",
+  "value": "777,8400"
+ },
+ {
+  "num_code": "756",
+  "char_code": "CHF",
+  "value": "835,0900"
+ },
+ {
+  "num_code": "124",
+  "char_code": "CAD",
+  "value": "891,1700"
+ },
+ {
+  "num_code": "724",
+  "char_code": "ESP",
+  "value": "90,4900"
+ },
+ {
+  "num_code": "233",
+  "char_code": "EEK",
+  "value": "91,7000"
+ }
+]
